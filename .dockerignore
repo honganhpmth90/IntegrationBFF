@@ -1,0 +1,10 @@
+**/bin
+**/obj
+.git
+.vs
+.idea
+.vscode
+.codex_tmp
+.codex_tools
+TestResults
+README.md
